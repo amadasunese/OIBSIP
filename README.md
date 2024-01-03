@@ -2,10 +2,10 @@
 
 This repository contains my work during my  Data Science Internship program offered by Oasis Infobyte. This one-month internship was designed to be a comprehensive learning experience, focusing on enhancing my skills and knowledge in the field of data science through practical, hands-on projects.
 
-Internship Overview
-Duration: 1 month
-Objective: Gain a deeper understanding of data science concepts through practical application and hands-on experience.
-Commitment: Complete allocated tasks with dedication and to the best of your abilities, following lawful and reasonable instructions.
+**Internship Overview**
+<p>**Duration: 1 month**</p>
+<p>Objective: Gain a deeper understanding of data science concepts through practical application and hands-on experience</p>
+<p>Commitment: Complete allocated tasks with dedication and to the best of your abilities, following lawful and reasonable instructions.</p>
 
 **Internship Projects**
 
