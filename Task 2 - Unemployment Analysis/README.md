@@ -39,7 +39,7 @@ Classified data into two periods: Pre-COVID (before March 2020) and Post-COVID (
 Calculated and compared the average unemployment rates for both periods to assess the impact of the COVID-19 pandemic.</p>
 
 **Relationship Analysis**
-<p>Unemployment vs Labor Participation:
+<p>Unemployment vs Labor Participation
 Created a scatter plot to examine the correlation between unemployment rates and labor participation rates.</p>
 
 <p>Utilized various types of plots (line charts, bar charts, scatter plots) to visually represent the data and trends for easier understanding and interpretation.</p>
